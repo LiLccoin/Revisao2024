@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\bin\Debug\net8.0\geradorsenha.exe
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\bin\Debug\net8.0\geradorsenha.deps.json
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\bin\Debug\net8.0\geradorsenha.runtimeconfig.json
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\bin\Debug\net8.0\geradorsenha.dll
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\bin\Debug\net8.0\geradorsenha.pdb
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.sourcelink.json
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.dll
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\refint\geradorsenha.dll
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.pdb
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\geradorsenha.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LiLccoin\Revisao2024\geradorsenha\obj\Debug\net8.0\ref\geradorsenha.dll
