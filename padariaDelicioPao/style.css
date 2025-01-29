@@ -1,0 +1,159 @@
+/* Estilos gerais */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f3e1; 
+}
+
+header {
+    background-color: #ecc46c !important; 
+    color: #fff !important; 
+}
+
+header img {
+    width: 200px;
+    height: auto; 
+}
+
+header .row {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+header .col-auto {
+    margin-right: 5px; 
+}
+
+header h1 {
+    font-size: 2.5rem; 
+}
+
+.nav-link {
+    color: #85471f !important; 
+    font-weight: bold; 
+}
+
+.nav-link:hover {
+    color: #85471f !important; 
+    text-decoration: underline; }
+
+
+.nav-link.active {
+    color: #85471f !important; 
+}
+
+
+section {
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #333;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #666;
+}
+
+.card-img-top {
+    object-fit: cover; 
+    height: 200px; 
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+footer {
+    background-color: #3f3e3e;
+    color: #fff;
+}
+
+a {
+    color: #ff6600; 
+    text-decoration: none; 
+}
+
+
+a:hover {
+    color: #e65c00; 
+    text-decoration: underline; 
+}
+
+
+a:active {
+    color: #b34d00; 
+}
+
+input, textarea {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 16px;
+}
+
+
+.btn-primary {
+    background-color: #f78c40;  
+    border-color: #f78c40;
+}
+
+.btn-primary:hover {
+    background-color: #ff7043;
+    border-color: #ff7043;
+}
+
+
+section.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+
+img.img-fluid {
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 2rem;
+    color: #f78c40;
+    font-weight: bold;
+}
+
+ul.list-unstyled {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #555;
+}
+
+ul.list-unstyled li {
+    margin-bottom: 10px;
+}
